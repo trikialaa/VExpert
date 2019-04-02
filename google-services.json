@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "19148195358",
+    "firebase_url": "https://vexpert-3a7c6.firebaseio.com",
+    "project_id": "vexpert-3a7c6",
+    "storage_bucket": "vexpert-3a7c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19148195358:android:f33e9b61a8beaac1",
+        "android_client_info": {
+          "package_name": "com.zettabyte.vexpert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUQ2BqX9amwm5MNFwlbGLI7Ll0PPcGxfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19148195358-tn0epocqdc93uchoq5i7k6e73m029d3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
