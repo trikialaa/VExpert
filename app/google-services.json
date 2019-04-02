@@ -13,7 +13,16 @@
           "package_name": "com.zettabyte.vexpert"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "19148195358-90uc41npd683uee7e70v6m40mp1m8hdr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zettabyte.vexpert",
+            "certificate_hash": "99c73abcf098522bcd5ff4a1523ef2b4b66b998b"
+          }
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyDUQ2BqX9amwm5MNFwlbGLI7Ll0PPcGxfM"
